@@ -8,3 +8,5 @@ local test = true;
 if test then
   print("Working")
 end
+
+print("Testing.")
